@@ -21,6 +21,6 @@ on configuration on specific ports and deny any hosts from wan or lan
 port
 *  Deny not reject any host go ping on server or firewall or router
 
-  # For ISo Imgest of this vms txet me at 
+  ## For ISo Imgest of this vms txet me at 
      * proof.saleh@gmail.com
      *+2 01000195853 
