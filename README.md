@@ -20,7 +20,7 @@ on configuration on specific ports and deny any hosts from wan or lan
 * Allow the host to access only the web server and mail server on a specific 
 port
 *  Deny not reject any host go ping on server or firewall or router
-[![](10.jpg)]
+[![](10.jpg)
 [![](20.jpg)
 [![](30.jpg)
 [![](40.jpg)
