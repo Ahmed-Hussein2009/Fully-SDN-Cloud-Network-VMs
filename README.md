@@ -3,7 +3,7 @@ Fully SDN Cloud Network Consist of Router ,2 Switches, Firewall ,DMZ Servers and
 
 
 Markup : ![picture alt](Cloud05.jpg")
-[![](http://www.cloudbus.org/logo/cloudbuslogo-v5a.png)](http://cloudbus.org/)
+[![](Cloud05.jpg)](http://cloudbus.org/)
 ## Requirements :
 1- Work on any virtualization environment
 2- Install on DMZ servers (DNS – WebMail)
