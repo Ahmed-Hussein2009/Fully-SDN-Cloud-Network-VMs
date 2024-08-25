@@ -20,10 +20,10 @@ on configuration on specific ports and deny any hosts from wan or lan
 * Allow the host to access only the web server and mail server on a specific 
 port
 *  Deny not reject any host go ping on server or firewall or router
-[![](10.jpg)](http://cloudbus.org/)
-[![](20.jpg)](http://cloudbus.org/)
-[![](30.jpg)](http://cloudbus.org/)
-[![](40.jpg)](http://cloudbus.org/)
+[![](10.png)](http://cloudbus.org/)
+[![](20.png)](http://cloudbus.org/)
+[![](30.png)](http://cloudbus.org/)
+[![](40.png)](http://cloudbus.org/)
   ## For ISo Imgest of this vms txet me at 
      * proof.saleh@gmail.com
      * +2 01000195853 
